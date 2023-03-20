@@ -1,11 +1,13 @@
 channels:
   - conda-forge
 dependencies:
-  - python==3.10
-  - scikit-learn==0.24.2
-  - scipy==1.10.1
-  - matplotlib==3.2.2
-  - numpy==1.18.5
-  - numpy-base=1.23.5=py38h4da318b_0
-  - pandas==1.0.5
-
+  - python=3.10
+  - nodejs=18
+  - pip
+  - ipywidgets==8.0.2
+  - jupyter-offlinenotebook==0.2.2
+  - jupyter-resource-usage==0.7.0
+  - jupyterlab==3.4.8
+  - jupyterhub-singleuser==3.1.1
+  - notebook==6.4.12
+  - nteract_on_jupyter==2.1.3

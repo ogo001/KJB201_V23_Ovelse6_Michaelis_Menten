@@ -6,5 +6,6 @@ dependencies:
   - scipy==1.10.1
   - matplotlib==3.2.2
   - numpy==1.18.5
+  - numpy-base=1.23.5=py38h4da318b_0
   - pandas==1.0.5
 

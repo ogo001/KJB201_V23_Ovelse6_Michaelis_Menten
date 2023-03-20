@@ -1,4 +1,3 @@
-name: KJB201
 channels:
   - defaults
 dependencies:
